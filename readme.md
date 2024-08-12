@@ -86,17 +86,20 @@ The project highlights the performance of the KNN algorithm in both classificati
 To reproduce the analysis:
 
 1. Clone the Repository:
-
+``` bash
 git clone <repository-url>
 cd <repository-directory>
+```
 
 2. Install Dependencies:
-
+``` bash
 pip install -r `requirements.txt`
+```
 
 3. Open the Notebook:
-
+``` bash
 jupyter notebook `notebook.ipynb`
+```
 
 Follow the instructions provided in the notebook to execute the analysis.
 
